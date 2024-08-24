@@ -1,0 +1,29 @@
+.red-background{
+    background-color: pink;
+    color: white;
+    font-style: normal;
+}
+
+.orange-background{
+    background-color: orange;
+    color: white;
+}
+.lightblue-background{
+    background-color: brown;
+    
+        .line1 {
+            color: black;
+        }
+    
+    color: white;
+}
+.tech{
+    background-color: cornflowerblue;
+    color: black;
+    font-style: normal;
+    
+}
+.dec{
+    background-color: indigo;
+    color: white;
+}
